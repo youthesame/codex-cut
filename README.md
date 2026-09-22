@@ -6,7 +6,7 @@
 
 ## CUT版
 
-- Shell、Web検索、画像生成は残す
+- Shell、Web検索、画像生成、ローカル画像表示は残す
 - multi-agent、apps、plugins、computer useなどは無効化する
 - `openai-docs` と `plugin-creator` Skillは無効化する
 - CompactはCodexのデフォルトを使う

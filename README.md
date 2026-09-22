@@ -6,8 +6,8 @@
 
 ## CUT版
 
-- ShellとWeb検索は残す
-- multi-agent、apps、plugins、画像生成、computer useなどは無効化する
+- Shell、Web検索、画像生成、ローカル画像表示は残す
+- multi-agent、apps、plugins、computer useなどは無効化する
 - `openai-docs` と `plugin-creator` Skillは無効化する
 - CompactはCodexのデフォルトを使う
 - system promptは次の1行だけにする
